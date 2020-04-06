@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A{
+public class B{
 	int b1;
 	float b2;
 	
@@ -22,7 +22,7 @@ public class A{
 		return b2;
 	}
 	
-		public void MB1(){
+	public void MB1(){
 		System.out.println("MB1");
 	}
 	
