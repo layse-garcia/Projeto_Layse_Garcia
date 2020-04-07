@@ -6,7 +6,7 @@ public class C{
 	
 	Scanner entrada = new Scanner(System.in);
 	
-	public void setB1(){
+	public void setC1(){
 		c1 = entrada.nextLine();
 	}
 	
@@ -28,6 +28,10 @@ public class C{
 	
 	public void MC2(){
 		System.out.println("MC2");
+	}
+	
+	public void MC3(){
+		System.out.println("MC3");
 	}
 	
 }
