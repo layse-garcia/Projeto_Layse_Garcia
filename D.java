@@ -30,4 +30,9 @@ public class D{
 		System.out.println("MD2: MD1: Criacao da classe D. Voce esta no metodo MD2");
 	}
 	
+	public void MD4(){
+		System.out.println("MD4: GitHub Browser");
+	}
+	
+	
 }
